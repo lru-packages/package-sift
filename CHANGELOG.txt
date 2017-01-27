@@ -1,0 +1,3 @@
+* Thu Jan 26 2017 Ryan Parman <ryan@ryanparman.com> 0.9.0-1
+- Bundles Sift 0.9.0.
+- Initial release of the RPM.
